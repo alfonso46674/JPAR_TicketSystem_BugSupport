@@ -24,4 +24,4 @@ https://github.com/alfonso46674/IBMCloudFunctions
 https://youtu.be/fA3EKqQ4SOs
 
 ### Architecture
-![Architecture][Architecture.png]
+![Architecture](Architecture.png)
