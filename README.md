@@ -22,3 +22,6 @@ https://github.com/alfonso46674/IBMCloudFunctions
 
 ### Video demo (in spanish):
 https://youtu.be/fA3EKqQ4SOs
+
+### Architecture
+![Architecture][Architecture.png]
